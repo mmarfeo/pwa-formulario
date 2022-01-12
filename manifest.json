@@ -9,7 +9,7 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./imagen_icono.png",
+            "src": "./imagen-health.png",
             "type": "image/png",
             "sizes": "512x512"
         }
